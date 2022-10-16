@@ -50,3 +50,31 @@ img {
     box-shadow: 0px 0px;
     transform: scale(1.04);
 }
+
+div {
+    display: inline-block;
+    width: 627px;
+    height: 184px;
+    background-color: #4e4f50;
+    box-shadow: 5px 5px 0px #000;
+    text-align: center;
+    text-shadow: 4.82px 4.82px #000;
+}
+
+h1 {
+    display: block;
+    color:#e2ded0;
+    font-family: "PatuaOne", sans-serif;
+    font-size: 52px;
+    margin-top: 22px;
+    margin-left: 43px;
+    margin-right: 44px;
+}
+
+h2 {
+    display: block;
+    color:#e2ded0;
+    font-family: "PatuaOne", sans-serif;
+    font-size: 42px;
+    margin: 13px 121px 40px;
+}
